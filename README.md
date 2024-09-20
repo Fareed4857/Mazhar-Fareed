@@ -10,9 +10,9 @@
 - 🎯 Aiming to master full-stack development and explore new technologies.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Excel, React-Native
+- **Languages:** JavaScript,  React-Native
 - **Frameworks/Libraries:** React Native (working towards full-stack expertise)
-- **Tools:** Git, VSCode, Node.js
+- **Tools:** Git, VSCode, Excel
 
 ## 📚 What I'm Learning Now
 - JavaScript best practices and advanced concepts.
